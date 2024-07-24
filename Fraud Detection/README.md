@@ -17,7 +17,7 @@ This repository contains a machine learning project for detecting fraudulent tra
 - **newbalanceDest**: The new balance of recipient after the transaction.
 - **isFraud**: Indicates whether the transaction is fraudulent.
 
-- ## Results
+## Results
 
 The Decision Tree classifier has achieved impressive performance on the test dataset:
 
