@@ -7,7 +7,9 @@ Welcome to the Tumo Labs Projects Repository! This repository hosts various proj
 To get started with a specific project, navigate to its directory and refer to the `README.md` file inside. It will provide you with all the necessary information to understand, set up, and use the project.
 
 First Station Project: Fraud Detection (completed)
+
 Second Station Project:
+
 Third Station Project:
 
 ## Contributing
