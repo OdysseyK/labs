@@ -8,7 +8,7 @@ To get started with a specific project, navigate to its directory and refer to t
 
 First Station Project: Fraud Detection (completed)
 
-Second Station Project:
+Second Station Project: Pre-Interview Assessment (completed)
 
 Third Station Project:
 
